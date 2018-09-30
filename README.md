@@ -14,7 +14,7 @@ openpilot is developed by [comma.ai](https://comma.ai/) and users like you.
 
 We have a [Twitter you should follow](https://twitter.com/comma_ai).
 
-Also, we have a 3500+ person [community on slack](https://slack.comma.ai).
+Also, we have a 5000+ person [community on slack](https://slack.comma.ai).
 
 <table>
   <tr>
